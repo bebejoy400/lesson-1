@@ -29,3 +29,14 @@ body{
     color: rgb(72, 0, 255);
     
 }
+.hero-section{
+    height: 100px;
+    background-color: rgb(57, 181, 173); 
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    margin: 150px;
+    text-align: center;
+    color: white;
+}
