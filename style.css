@@ -1,0 +1,30 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    height: 70px;
+    width: auto;
+    background-color: rgb(70, 70, 134);
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    color: white;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+.nav-links{
+    padding-right: 120px;
+    padding-top: 20px;
+}
+.nav-links a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 5px;
+}
+.nav-links a:hover{
+    color: rgb(72, 0, 255);
+}
