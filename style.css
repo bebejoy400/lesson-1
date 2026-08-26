@@ -30,13 +30,17 @@ body{
     
 }
 .hero-section{
-    height: 100px;
-    background-color: rgb(57, 181, 173); 
-}
-.cards{
     display: flex;
-    justify-content: space-between;
-    margin: 150px;
-    text-align: center;
-    color: white;
+    background-color: rgb(110, 121, 177);
+    height: 450px;
+}
+.hero-image img{
+    height: 300px;
+    width: 300px;
+    margin-left: 350px;
+    margin-top: 30px;
+}
+.hero-text{
+    padding: 50px;
+    
 }
